@@ -1,4 +1,4 @@
-# Angular2+ for custome template
+# Angular2+ for custom template
 Check for you angular-cli version
 
 $ ng --version
